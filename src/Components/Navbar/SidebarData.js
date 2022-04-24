@@ -12,8 +12,8 @@ export const SidebarData = [
     children: []
   },
   {
-    title_id: 'Featured',
-    path: '/featured',
+    title_id: 'Order',
+    path: '/order',
     icon: <FaIcons.FaUserFriends />,
     children: []
   },
