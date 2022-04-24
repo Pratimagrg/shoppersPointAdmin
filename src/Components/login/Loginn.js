@@ -73,6 +73,8 @@ function Loginn(props) {
       });
   };
 
+  // localhost/clothingStore/order/updateOrder.php
+
   if (isLoggedIn) {
     return <Redirect to="/" />;
   }
